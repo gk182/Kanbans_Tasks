@@ -1,0 +1,28 @@
+@charset "UTF-8";
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #505457;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #72777a;
+}
+.btn-logout {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #f44336;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.btn-logout:hover {
+    background-color: #d32f2f;
+}
